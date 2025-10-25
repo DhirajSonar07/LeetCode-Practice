@@ -1,0 +1,22 @@
+# CodeQL temporary files
+_codeql_detected_source_root
+
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+a.out
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
