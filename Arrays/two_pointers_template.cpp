@@ -20,7 +20,8 @@ public:
             // Example: check if arr[left] + arr[right] meets condition
             
             // Move pointers based on condition
-            if (/* some condition */) {
+            // Replace 'false' with your actual condition
+            if (false /* some condition */) {
                 left++;
             } else {
                 right--;
@@ -40,7 +41,8 @@ public:
             fast++;
             
             // Conditionally move slow pointer
-            if (/* some condition */) {
+            // Replace 'false' with your actual condition
+            if (false /* some condition */) {
                 slow++;
             }
         }

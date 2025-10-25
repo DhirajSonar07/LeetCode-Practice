@@ -45,7 +45,8 @@ public:
             right++;
             
             // Contract window while condition is violated
-            while (/* window violates condition */) {
+            // Replace 'false' with your actual condition
+            while (false /* window violates condition */) {
                 window[arr[left]]--;
                 if (window[arr[left]] == 0) {
                     window.erase(arr[left]);
